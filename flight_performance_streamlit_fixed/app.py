@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Flight Performance Calculator", page_icon="✈️", layout="wide")
-st.title("✈️ Aircraft Flight Performance Calculator")
+st.title("Mriganki(1MS24AS033) ✈️ Aircraft Flight Performance Calculator")
 st.caption("Interactive plots based on the aircraft parameters and equations in the provided Colab export. Results are theoretical.")
 
 # Parameters from the provided notebook
